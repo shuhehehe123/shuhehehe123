@@ -18,7 +18,9 @@
 |项目名称|简单介绍|使用语言|框架 / SDK|状态|版本|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
+|[MinecraftCodeHelper]()|一个我的世界命令生成工具|Python3|tkinter|活跃|Early Alpha 0.0.1|
 |[minecraftserver_helper](https://github.com/shuhehehe123/)|一个minecraft服务器桌面软件|没定好|没定好|正在准备||布吉岛|
+
 
 
 ### 参与的项目
