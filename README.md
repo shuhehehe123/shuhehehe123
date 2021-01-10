@@ -19,7 +19,7 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
 |[3x3chess](https://github.com/shuhehehe123/3x3chess)|一个3x3井字棋|Javascript|react.js|最终版本|无版本(没有项目硬写的)|
-|[minecraftserver_helper](https://github.com/shuhehehe123/)|一个minecraft服务器桌面软件|没定好|没定好|正在准备||布吉岛|
+|[minecraftserver_helper](https://github.com/shuhehehe123/)|一个minecraft服务器桌面软件|Javascript|nodejs+electron|正在准备||布吉岛|
 
 
 
