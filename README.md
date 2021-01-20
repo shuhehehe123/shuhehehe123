@@ -19,15 +19,16 @@
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
 |[3x3chess](https://github.com/shuhehehe123/3x3chess)|一个3x3井字棋|Javascript|react.js|最终版本|无版本(没有项目硬写的)|
-|[minecraftserver_helper](https://github.com/shuhehehe123/)|一个minecraft服务器桌面软件|Javascript|nodejs+electron|正在准备||布吉岛|
+|[TreeMinecraftServerHelper](https://github.com/shuhehehe123/)|一个minecraft一键开服软件|Javascript|nodejs+electron|活跃||雏形未发布|
 
 
 
 ### 参与的项目
 
-|项目归属|项目名|介绍|语言|
-|:----:|:----:|:----:|:----:|
-|[星火计划](https://gitee.com/deepin-community-store)|SPARKAPP_WEB|星火应用商店的网站后端|Javascript|
+|项目归属|项目名|介绍|语言|状态|
+|:----:|:----:|:----:|:----:|:----:|
+|[星火计划](https://gitee.com/deepin-community-store)|SPARKAPP_WEB|星火应用商店的网站后端|Javascript|半活跃|
+|[星火应用商店新官网](https://gitee.com/qygw/sownext)|sownext|星火新后端|Python Django|活跃|
 
 
 ## 联系我
