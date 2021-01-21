@@ -18,7 +18,7 @@
 |项目名称|简单介绍|使用语言|框架 / SDK|状态|版本|
 |:----:|:----:|:----:|:----:|:----:|:----:|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
-|[Advanced]()|一个我的世界增强数据包|Minecraft script/json|无|活跃|0.0.1a|
+|[Advanced](https://github.com/shuhehehe123/Advanced)|一个我的世界增强数据包|Minecraft script/json|无|活跃|0.0.1a|
 |[3x3chess](https://github.com/shuhehehe123/3x3chess)|一个3x3井字棋|Javascript|react.js|停止更新|无版本(没有项目硬写的)|
 |[TreeMinecraftServerHelper](https://github.com/shuhehehe123/)|一个minecraft一键开服软件|Javascript|nodejs+electron|不活跃||雏形未发布|
 
