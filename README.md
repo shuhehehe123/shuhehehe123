@@ -8,7 +8,7 @@
 
 - C++（直接放弃）
 - Javascript(正在学习)
-- Java（学习中）
+- Java（开始放弃）
 - Python(最擅长:django,tkinter)
 
 ## 项目
