@@ -26,7 +26,7 @@ IDE/Editor:vscode
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
 |[3x3chess](https://github.com/shuhehehe123/3x3chess)|一个3x3井字棋|Javascript|react.js|停止更新|无版本(没有项目硬写的)|
 |[Advanced](https://github.com/shuhehehe123/Advanced)|一个我的世界增强数据包|Minecraft script/json|无|停止更新|Alpha0.1-pre1|
-|[TreeMinecraftServerHelper](https://github.com/shuhehehe123/)|一个minecraft一键开服软件|Javascript|nodejs+electron|不活跃|雏形未发布|
+
 
 
 
