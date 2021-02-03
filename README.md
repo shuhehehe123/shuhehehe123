@@ -24,7 +24,7 @@ IDE/Editor:vscode
 | :----------------------------------------------------------: | :------------------: | :-------------------: | :--------------------: | :----: | :-----------: |
 | [AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem) |      A website       |        Python3        |        Django3         |  stop  |     1.0.0     |
 |     [3x3chess](https://github.com/shuhehehe123/3x3chess)     |     A 3x3 chess      |      Javascript       |        React.js        |  stop  |     None      |
-|     [Advanced](https://github.com/shuhehehe123/Advanced)     | A Minecraft datapack | Minecraft script/json | none(Minecraft script) |  stop  | Alpha0.1-pre1 |
+|     [On-That-Day](https://github.com/shuhehehe123/On-That-Day)     | A software shows that important history on that day | Javascript | node.js vue-electron |  programing  | no  |
 
 
 
