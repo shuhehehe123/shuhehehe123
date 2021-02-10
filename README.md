@@ -22,8 +22,6 @@ IDE/Editor:vscode
 
 |                         project name                         |      Introduce       |       Language        |       Frame/SDK        | Status |    Version    |
 | :----------------------------------------------------------: | :------------------: | :-------------------: | :--------------------: | :----: | :-----------: |
-| [AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem) |      A website       |        Python3        |        Django3         |  stop  |     1.0.0     |
-|     [3x3chess](https://github.com/shuhehehe123/3x3chess)     |     A 3x3 chess      |      Javascript       |        React.js        |  stop  |     None      |
 |     [On-That-Day](https://github.com/shuhehehe123/On-That-Day)     | A software shows that important history on that day | Javascript | node.js vue-electron |  programing  | None  |
 
 
@@ -34,12 +32,11 @@ IDE/Editor:vscode
 
 |                 Where is the project                 | Project name |            Introduce            |   Language    |   Status   |
 | :--------------------------------------------------: | :----------: | :-----------------------------: | :-----------: | :--------: |
-| [星火计划](https://gitee.com/deepin-community-store) | SPARKAPP_WEB | The website of old spark store. |  Javascript   | not active |
 | [星火应用商店新官网](https://gitee.com/qygw/sownext) |   sownext    | The website of new spark store. | Python Django |   active   |
 
 
 ## Contact me
 
-- Minecraft username :    Imshuhehehe
+- Minecraft username :    shuhehehe
 - Bilibili uid   :  389037056
 - email   :  shuhehehehe@163.com
