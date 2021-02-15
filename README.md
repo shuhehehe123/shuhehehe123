@@ -30,7 +30,7 @@ IDE/Editor:vscode
 
 ### Project I join in
 
-|                 Where is the project                 | Project name |            Introduce            |   Language    |   Status   |
+|                 Where is the project                 | Project name |            Introduction            |   Language    |   Status   |
 | :--------------------------------------------------: | :----------: | :-----------------------------: | :-----------: | :--------: |
 | [星火应用商店新官网](https://gitee.com/qygw/sownext) |   sownext    | The website of new spark store. | Python Django |   active   |
 
