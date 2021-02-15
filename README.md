@@ -20,7 +20,7 @@ IDE/Editor:vscode
 
 ### My own project
 
-|                         project name                         |      Introduce       |       Language        |       Frame/SDK        | Status |    Version    |
+|                         project name                         |      Introduction       |       Language        |       Frame/SDK        | Status |    Version    |
 | :----------------------------------------------------------: | :------------------: | :-------------------: | :--------------------: | :----: | :-----------: |
 |     [On-That-Day](https://github.com/shuhehehe123/On-That-Day)     | A software shows that important history on that day | Javascript | node.js vue-electron |  programing  | None  |
 
