@@ -33,7 +33,7 @@ IDE/Editor:vscode
 
 |项目归属|项目名|介绍|语言|状态|
 |:----:|:----:|:----:|:----:|:----:|
-|[星火应用商店新官网](https://gitee.com/qygw/sownext)|sownext|星火新版应用商店|Javascript（nodejs）|半活跃|
+|[星火应用商店新官网](https://gitee.com/qygw/sownext)|sownext|星火新版应用商店|Javascript（nodejs）|停更|
 
 
 ## 联系我
