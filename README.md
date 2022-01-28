@@ -12,7 +12,7 @@ IDE/Editor:VSCode
 
 ## 编程语言
 - Python3
-- - Javascript(正在学习)
+- Javascript(正在学习)
 - C++（正在学习）
 
 
