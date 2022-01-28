@@ -2,20 +2,19 @@
 
 ## 简介
 
-OS:Win10,Ubuntu,Manjaro
+OS:ArchLinux
 
-IDE/Editor:vscode
+IDE/Editor:VSCode
 
 
 ![语言使用排名](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=shuhehehe123&hide=html)
 ![shuhehehe123的数据](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=shuhehehe123&show_icons=true&count_private=true)
 
 ## 编程语言
+- Python3
+- - Javascript(正在学习)
+- C++（正在学习）
 
-- C++（直接放弃）
-- Javascript(正在学习)
-- Java（开始放弃）
-- Python(最擅长:django,tkinter)
 
 ## 项目
 
