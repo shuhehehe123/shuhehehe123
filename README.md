@@ -23,10 +23,9 @@ IDE/Editor:vscode
 
 |项目名称|简单介绍|使用语言|框架 / SDK|状态|版本|
 |:----:|:----:|:----:|:----:|:----:|:----:|
+|[ThingsToDo](https://github.com/shuhehehe123)|一款解决本人需求的待办事项软件|Python|Qt:Pyside6|立项|暂无|
 |[oh-my-linux(具体名称未定)](https://github.com/shuhehehe123/AssetsManageSystem)|快速配置Linux的shell脚本|Shell|无|立项|暂无|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
-|[Chess-self-analyze](https://github.com/shuhehehe123)|国际象棋自我分析软件|python|Qt:pyside6|立项|暂无|
-
 
 
 
