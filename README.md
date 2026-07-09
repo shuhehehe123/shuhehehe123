@@ -22,7 +22,6 @@ IDE/Editor:VSCode
 
 |项目名称|简单介绍|使用语言|框架 / SDK|状态|版本|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|[AlarmPlusPlus](https://github.com/shuhehehe123)|一个全平台多功能闹钟|Python|Qt:Pyside6|立项|暂无|
 |[oh-my-linux(具体名称未定)](https://github.com/shuhehehe123/AssetsManageSystem)|快速配置Linux的shell脚本|Shell|无|立项|暂无|
 |[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
 
@@ -40,4 +39,4 @@ IDE/Editor:VSCode
 
 - 我的世界用户名：Imshuhehehe
 - Bilibili: uid:389037056
-- 邮件:shuhehehe@163.com
+- 邮件:shuhehehe@foxmail.com
