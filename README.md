@@ -22,8 +22,6 @@ IDE/Editor:VSCode
 
 |项目名称|简单介绍|使用语言|框架 / SDK|状态|版本|
 |:----:|:----:|:----:|:----:|:----:|:----:|
-|[oh-my-linux(具体名称未定)](https://github.com/shuhehehe123/AssetsManageSystem)|快速配置Linux的shell脚本|Shell|无|立项|暂无|
-|[AssetsManageSystem](https://github.com/shuhehehe123/AssetsManageSystem)|一个资产管理网站|Python3|Django3|停止更新|1.0.0|
 
 
 
@@ -32,7 +30,6 @@ IDE/Editor:VSCode
 
 |项目归属|项目名|介绍|语言|状态|
 |:----:|:----:|:----:|:----:|:----:|
-|[星火应用商店新官网](https://gitee.com/qygw/sownext)|sownext|星火新版应用商店|Javascript（nodejs）|停更|
 
 
 ## 联系我
